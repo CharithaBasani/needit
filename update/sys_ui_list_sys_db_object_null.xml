@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
+<?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_list parent="" relationship="" sys_domain="global" table="sys_db_object" version="2" view="">
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -119,7 +118,6 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>ben.greer@snc</sys_created_by>
             <sys_created_on>2017-02-08 17:47:07</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>d69d3f390fb43200cd674f8ce1050e55</sys_id>
@@ -127,7 +125,6 @@
             <sys_name>sys_db_object</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
             <sys_update_name>sys_ui_list_sys_db_object_null</sys_update_name>
             <sys_updated_by>ben.greer@snc</sys_updated_by>
